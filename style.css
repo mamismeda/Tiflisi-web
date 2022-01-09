@@ -18,14 +18,14 @@ header {
 }
 }
 .f-nav{
-    padding: 15px 0;
+    padding-bottom: 25px 0;
 }
 .f-nav span{
     font-size: 11px;
 }
 .s-nav{
     text-align: right;
-    padding: 15px 0;
+    padding-bottom: 25px 0;
 }
 .s-nav span{
     font-size: 11px;
@@ -53,4 +53,32 @@ header {
 .centry span{
     font-size: 14px;
     font-weight: 900;
+}
+/* HEADER END !!!*/
+
+/* CONTENT SECTION START */
+
+.tryps{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+}
+.tryps>*{
+    border: 2px solid beige;
+    padding:10px 15px 15px 15px;
+    text-align: center;
+    width: 50px;
+    height:50px;
+    border-radius: 50%;
+}
+.tryps>* a{
+    color: #000;
+}
+.anoth{
+  background-color: #193527;
+  color: #fff;
+  font-weight: bold;
 }
