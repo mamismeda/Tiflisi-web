@@ -12,6 +12,10 @@ header {
     background-size: cover;
     color: #Fff;
 }
+@media (min-width: 1400px){
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1180px;
+}
 .f-nav{
     padding: 15px 0;
 }
@@ -19,10 +23,14 @@ header {
     text-align: right;
     padding: 15px 0;
 }
+.starter{
+    margin-right: 62px;
+}
 #exmp{
     padding: 0;
 }
 
 #ully li a{
     color: #fff;
+    text-transform: uppercase;
 }
