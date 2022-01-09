@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+header {
+    background-image: url(pic/back.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #Fff;
+}
+.f-nav{
+    padding: 15px 0;
+}
+.s-nav{
+    text-align: right;
+    padding: 15px 0;
+}
+#exmp{
+    padding: 0;
+}
+#ully li a{
+    color: #fff;
+}
