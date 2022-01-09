@@ -16,12 +16,19 @@ header {
 .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
     max-width: 1180px;
 }
+}
 .f-nav{
     padding: 15px 0;
+}
+.f-nav span{
+    font-size: 11px;
 }
 .s-nav{
     text-align: right;
     padding: 15px 0;
+}
+.s-nav span{
+    font-size: 11px;
 }
 .starter{
     margin-right: 62px;
@@ -33,4 +40,17 @@ header {
 #ully li a{
     color: #fff;
     text-transform: uppercase;
+    font-size: 16px;
+}
+.centry{
+    text-align: center;
+    margin-top: 35px;
+}
+.centry h4{
+   font-size:24px;
+   font-weight: 700;
+}
+.centry span{
+    font-size: 14px;
+    font-weight: 900;
 }
