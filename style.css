@@ -117,3 +117,19 @@ header {
     width: 200px;
     height: 200px;
 }
+.rondo{
+    border: 2px solid rgb(221, 220, 220);
+    height: fit-content;
+    padding:5px 5px 5px 15px;
+    border-radius: 25px;
+}
+.iconicy{
+    padding-right: 90px;
+}
+.iconicy span{
+    margin-left: 50px;
+}
+.colgi{
+    padding-bottom: 50px;
+    border-bottom: 2px solid rgb(221, 220, 220);
+}
