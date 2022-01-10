@@ -113,6 +113,12 @@ header {
     display: flex;
     flex-wrap: wrap;
 }
+.grek{
+    color: rgb(170, 169, 169);
+}
+.flowy{
+    font-style: italic;
+}
 .mush{
     width: 200px;
     height: 200px;
