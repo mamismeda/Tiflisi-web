@@ -104,7 +104,16 @@ header {
 }
 .panj{
     padding: 0 100px;
+    border-bottom: 2px solid rgb(221, 220, 220);
 }
 .prod p{
     margin-left:100px;
+}
+.pizza{
+    display: flex;
+    flex-wrap: wrap;
+}
+.mush{
+    width: 200px;
+    height: 200px;
 }
