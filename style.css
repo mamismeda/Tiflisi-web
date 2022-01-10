@@ -133,3 +133,25 @@ header {
     padding-bottom: 50px;
     border-bottom: 2px solid rgb(221, 220, 220);
 }
+.chck{
+    padding-bottom: 150px;
+}
+.futty{
+    text-align: right;
+}
+.futty span{
+    margin-left: 10px;
+}
+.basky{
+    padding: 10px;
+    border-radius: 50%;
+    background-color: #193527;
+    color: #fff;
+}
+.proced{
+    padding: 10px 25px;
+    background-color: #193527;
+    color: #fff;
+    border-radius: 25px;
+    
+}
