@@ -189,3 +189,50 @@ footer{
     color: #a1a646;
     background-color: #193527;
 }
+.cardyb{
+    padding: 20px;
+    color:#a1a646;
+    background-color: #193527;
+}
+.cardyb h4{
+    font-size: 24px;
+    font-weight: 500;
+}
+.cardyb p{
+    font-size: 10px;
+    font-weight: 700;
+    margin-bottom: 3px;
+}
+.cardyb a{
+    font-size: 16px;
+    color: #193527;
+    background-color: #fff;
+    border-radius: 2px;
+    width: fit-content;
+    margin: auto;
+    padding: 10px 30px;
+}
+.circly{
+    font-size: 34px;
+    font-weight: 700;
+    background-color:#a1a646;
+    color: #193527;
+    width:80px;
+    height: 80px;
+    margin: auto;
+    border-radius: 50%;
+    padding: 15px 10px 15px 5px;
+}
+.wrpy{
+    flex-wrap: wrap;
+}
+.butty button{
+    padding: 5px 15px;
+    border-radius: 10px;
+    background-color: #193527;
+    color: #fff;
+    font-size: 25px;
+    outline: none;
+    margin-right: 23px;
+    border: none;
+}
