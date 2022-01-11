@@ -135,6 +135,7 @@ header {
 .iconicy span{
     margin-left: 50px;
 }
+
 .colgi{
     padding-bottom: 50px;
     border-bottom: 2px solid rgb(221, 220, 220);
@@ -144,6 +145,14 @@ header {
 }
 .futty{
     text-align: right;
+}
+@media all and (max-width:800px){
+    .futty{
+        margin: auto;
+        width: 100%;
+        text-align: center;
+    }
+  
 }
 .futty span{
     margin-left: 10px;
