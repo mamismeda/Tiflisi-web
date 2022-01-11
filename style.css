@@ -179,5 +179,13 @@ footer{
 }
 .artic a{
     display: block;
-    
+    border-radius: 1px;
+    border-bottom: 1px solid rgb(221, 220, 220);
+    padding: 10px 0 10px 10px;
+    color: #666c75;
+    font-size: 18px;
+}
+.artic a:focus{
+    color: #a1a646;
+    background-color: #193527;
 }
